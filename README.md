@@ -4,7 +4,7 @@
 I currently work as a Marketing Analyst for an educational technology company called ‘SAM Labs’. The company specializes in hands-on STEAM and coding solutions for K-8 educators. As a Marketing team, we are focused on account-based marketing and segmenting our customers based on behavior, historical purchases, demographics, and finances. Data was gathered from our customer relationship management system, the National Center for Education Statistics, and GovSpend, a spending database that aggregates government agency purchase orders. Statistical models were used to identify and develop alternative marketing strategies based on competitor purchases and their significance in predicting a SAM Labs purchase. 
 
 ## About the Data 
-Two datasets were pulled by PASSNYC from the New York Department of Education (NYDOE). The first is a database of thousands of schools across New York City and the second is SHSAT registration and testers. The raw data is comprised of 1,272 rows and 161 columns. Each row is an observation of variables such as state test scores, student demographics, school success indices, and location. This data is public data used to identify students within New York City’s underperforming school districts. 
+Multiple data sources were combined using customer relationship management data, publicly available school district data, and privately available agency purchase data.
 
 Data Source: [Hubspot CRM](url), [National Center for Education Statistics](url), and [GovSpend](url)
 
